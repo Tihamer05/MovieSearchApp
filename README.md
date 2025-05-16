@@ -1,25 +1,26 @@
-#🎬 Movie Searching App
+# Movie Searching App 🎬
 
 This project is a movie application built with React.js for the user interface and experience, Appwrite for the database, for the Trending Movie Algorithm, and styled with TailwindCSS. This platform offers a smooth user experience for browsing and discovering all kind of movies. 🎥
 
-#👨‍💻 Tech Stack
+# Tech Stack 👨‍💻
+
 - React.js
 - HTML
 - Tailwind.CSS
 - Appwrite
 
-#🆕 Features
+# Features 🆕
 🚩 Modern UI/UX
 🚩 Search Movies
 🚩 Trending Movies Algorithm
 🚩 Responsiveness
 
-#🍿 Necessary accessories
+## Necessary accessories 🍿
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm - Node Package Manager](https://www.npmjs.com/)
 
-#➕ Cloning the repository
+## Cloning the repository 👨‍💻
 
 ```bash
     git clone https://github.com/Tihamer05/MovieSearchApp.git
