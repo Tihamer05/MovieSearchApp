@@ -11,10 +11,10 @@ This project is a movie application built with React.js for the user interface a
 
 # Features 🆕
 
-🚩 Modern UI/UX
-🚩 Search Movies
-🚩 Trending Movies Algorithm
-🚩 Responsiveness
+-🚩 Modern UI/UX
+-🚩 Search Movies
+-🚩 Trending Movies Algorithm
+-🚩 Responsiveness
 
 ## Necessary accessories 🍿
 - [Git](https://git-scm.com/)
