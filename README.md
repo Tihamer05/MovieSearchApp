@@ -10,6 +10,7 @@ This project is a movie application built with React.js for the user interface a
 - Appwrite
 
 # Features 🆕
+
 🚩 Modern UI/UX
 🚩 Search Movies
 🚩 Trending Movies Algorithm
@@ -23,14 +24,15 @@ This project is a movie application built with React.js for the user interface a
 ## Cloning the repository 👨‍💻
 
 ```bash
-    git clone https://github.com/Tihamer05/MovieSearchApp.git
-    cmd MovieSearchApp
+git clone https://github.com/Tihamer05/MovieSearchApp.git
+cmd MovieSearchApp
 ```
 
 # Running the project 
 ```bash
-    npm run dev
+npm run dev
 ```
+
 
 ![image](https://github.com/user-attachments/assets/154d7b8e-7abe-4de1-a455-121dc73952cc)
 
